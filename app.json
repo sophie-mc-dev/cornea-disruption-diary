@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "ed0e82e7-9220-4f4e-ad21-cbee976c1126"
+      }
+    },
+    "owner": "scosta.dev"
   }
 }
